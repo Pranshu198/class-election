@@ -1,4 +1,4 @@
-/* Class Election — Showcase interactions. Zero dependencies. */
+/* Digital Voting Machine — Showcase interactions. Zero dependencies. */
 (function () {
   "use strict";
   var $ = function (s, c) { return (c || document).querySelector(s); };
@@ -213,7 +213,7 @@
   buildGallery();
 })();
 
-/* Class Election — Showcase v2 interactions (tubes, stepper, code typing, receipt demo). Zero dependencies. */
+/* Digital Voting Machine — Showcase v2 interactions (tubes, stepper, code typing, receipt demo). Zero dependencies. */
 (function () {
   "use strict";
   var $ = function (s, c) { return (c || document).querySelector(s); };
@@ -369,7 +369,7 @@
   }
 })();
 
-/* Class Election — Showcase v3 interactions (sidebar, copy, tree, build log, stats). Zero dependencies. */
+/* Digital Voting Machine — Showcase v3 interactions (sidebar, copy, tree, build log, stats). Zero dependencies. */
 (function () {
   "use strict";
   var $ = function (s, c) { return (c || document).querySelector(s); };
