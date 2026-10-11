@@ -450,7 +450,7 @@ function renderAuth() {
     ${card(`
       <div class="auth-brand">
         <span class="auth-logo">${icon("vote", 30)}</span>
-        <span class="auth-name">Class<b>Election</b></span>
+        <span class="auth-name">Digital<b>Voting Machine</b></span>
       </div>
       <h2 class="auth-title" id="auth-title">${authTab === "login" ? "Welcome back" : "Create your account"}</h2>
       <p class="sub auth-sub" id="auth-sub">${authTab === "login" ? "Log in to cast your vote." : "One account, one vote — takes 10 seconds."}</p>
